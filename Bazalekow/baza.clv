@@ -1,0 +1,133 @@
+
+3
+4
+2
+4
+typ: s
+nazwa: Flegamina
+cena: 12.22
+przeciwskazania:
+ciaza
+karmienie piersia
+
+
+pozostalo: 27
+substancja: bromheksyna
+pojemnosc: 330
+refundacja: 0
+Lek bez recepty
+
+
+1
+typ: s
+nazwa: Solinea
+cena: 31.22
+przeciwskazania:
+
+pozostalo: 45
+substancja: bromelina
+pojemnosc: 120
+refundacja: 0
+Lek bez recepty
+
+
+1
+typ: s
+nazwa: Baladex
+cena: 20
+przeciwskazania:
+
+pozostalo: 6
+substancja: teofilina
+pojemnosc: 150
+refundacja: 0
+Lek na recepte
+
+
+4
+typ: t
+nazwa: Euthyrox
+cena: 12.22
+przeciwskazania:
+miazdzyca
+niewydolnosc serca
+
+
+pozostalo: 22
+substancja: lewotyroksyna
+ilosc: 25
+refundacja: 30
+Lek na recepte
+
+
+4
+typ: t
+nazwa: Euthyrox
+cena: 12.22
+przeciwskazania:
+miazdzyca
+niewydolnosc serca
+
+
+pozostalo: 4
+substancja: lewotyroksyna
+ilosc: 100
+refundacja: 40
+Lek na recepte
+
+
+3
+typ: t
+nazwa: Apap
+cena: 11
+przeciwskazania:
+anemia
+niewydolnosc nerek
+
+pozostalo: 34
+substancja: paracetamol
+ilosc: 14
+refundacja: 0
+Lek bez recepty
+
+
+2
+typ: t
+nazwa: Ibuprom
+cena: 12
+przeciwskazania:
+
+anemia
+pozostalo: 65
+substancja: ibuprofen
+ilosc: 33
+refundacja: 0
+Lek bez recepty
+
+
+2
+typ: m
+nazwa: Calmapherol
+cena: 6.5
+przeciwskazania:
+
+
+pozostalo: 12
+substancja: cynk
+waga: 50
+refundacja: 0
+Lek bez recepty
+
+
+1
+typ: m
+nazwa: Posterisan
+cena: 15.3
+przeciwskazania:
+
+pozostalo: 34
+substancja: bakterie
+waga: 50
+refundacja: 0
+Lek bez recepty
+

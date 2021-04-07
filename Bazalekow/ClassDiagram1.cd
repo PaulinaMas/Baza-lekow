@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Syrop" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>Syrop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lek" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAACAAAgAICCCAAAAAAiAAAAABAACAAIBAgAIAI=</HashCode>
+      <FileName>Lek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lista&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgACAAAAAEAARAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Listy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Masc" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgAAAgAAAAAA=</HashCode>
+      <FileName>Masc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACCAAAAAAAAAAAAEBAAMAAAAQAAAAABAAgA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Szukaj" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Szukaj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Szukpocenie" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Szukaj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Szukzamiennik" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Szukaj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Szukporef" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Szukaj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabletka" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Tabletka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Walidator" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAIAAAIAAAAAACAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Walidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Listy" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAgAAAAAAAAAAAAAAUAAAAAAAAAAA=</HashCode>
+      <FileName>Listy.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
